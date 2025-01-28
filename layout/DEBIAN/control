@@ -1,9 +1,9 @@
-Package: wiki.qaq.trollfools
+Package: wiki.quocchienn.trollfools
 Name: TrollFools
 Version: 2.11-25
 Section: Applications
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm
-Author: Lessica <82flex@gmail.com>
-Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <chienq895@gmail.com>
+Maintainer: Lessica <chienq895@gmail.com>
 Description: Give me 108 yuan.
